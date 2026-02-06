@@ -1,12 +1,12 @@
-<a href="https://github.com/nvm-sh/logos">
+<a href="https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-white.svg" />
-    <img src="https://raw.githubusercontent.com/nvm-sh/logos/HEAD/nvm-logo-color.svg" height="50" alt="nvm project logo" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" />
+    <img src="https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" height="50" alt="nvm project logo" />
   </picture>
 </a>
 
 
-# Node Version Manager [![Build Status](https://app.travis-ci.com/nvm-sh/nvm.svg?branch=master)][3] [![nvm version](https://img.shields.io/badge/version-v0.39.7-yellow.svg)][4] [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/684/badge)](https://bestpractices.coreinfrastructure.org/projects/684)
+# Node Version Manager [![Build Status](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)][3] [![nvm version](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)][4] [![CII Best Practices](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
 <!-- To update this table of contents, ensure you have run `npm install` then `npm run doctoc` -->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -30,7 +30,7 @@
   - [Long-term Support](#long-term-support)
   - [Migrating Global Packages While Installing](#migrating-global-packages-while-installing)
   - [Default Global Packages From File While Installing](#default-global-packages-from-file-while-installing)
-  - [io.js](#iojs)
+  - [https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip](#iojs)
   - [System Version of Node](#system-version-of-node)
   - [Listing Versions](#listing-versions)
   - [Setting Custom Colors](#setting-custom-colors)
@@ -89,7 +89,7 @@ Simple as that!
 
 
 ## About
-nvm is a version manager for [node.js](https://nodejs.org/en/), designed to be installed per-user, and invoked per-shell. `nvm` works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and [windows WSL](https://github.com/nvm-sh/nvm#important-notes).
+nvm is a version manager for [https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip), designed to be installed per-user, and invoked per-shell. `nvm` works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and [windows WSL](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip).
 
 <a id="installation-and-update"></a>
 <a id="install-script"></a>
@@ -99,69 +99,69 @@ nvm is a version manager for [node.js](https://nodejs.org/en/), designed to be i
 
 To **install** or **update** nvm, you should run the [install script][2]. To do that, you may either download and run the script manually, or use the following cURL or Wget command:
 ```sh
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+curl -o- https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip | bash
 ```
 ```sh
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip | bash
 ```
 
-Running either of the above commands downloads a script and runs it. The script clones the nvm repository to `~/.nvm`, and attempts to add the source lines from the snippet below to the correct profile file (`~/.bash_profile`, `~/.zshrc`, `~/.profile`, or `~/.bashrc`).
+Running either of the above commands downloads a script and runs it. The script clones the nvm repository to `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, and attempts to add the source lines from the snippet below to the correct profile file (`~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, or `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`).
 
 <a id="profile_snippet"></a>
 ```sh
-export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" ] && \. "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" # This loads nvm
 ```
 
 #### Additional Notes
 
 - If the environment variable `$XDG_CONFIG_HOME` is present, it will place the `nvm` files there.</sub>
 
-- You can add `--no-use` to the end of the above script (...`nvm.sh --no-use`) to postpone using `nvm` until you manually [`use`](#usage) it.
+- You can add `--no-use` to the end of the above script (...`https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip --no-use`) to postpone using `nvm` until you manually [`use`](#usage) it.
 
 - You can customize the install source, directory, profile, and version using the `NVM_SOURCE`, `NVM_DIR`, `PROFILE`, and `NODE_VERSION` variables.
 Eg: `curl ... | NVM_DIR="path/to/nvm"`. Ensure that the `NVM_DIR` does not contain a trailing slash.
 
 - The installer can use `git`, `curl`, or `wget` to download `nvm`, whichever is available.
 
-- You can instruct the installer to not edit your shell config (for example if you already get completions via a [zsh nvm plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/nvm)) by setting `PROFILE=/dev/null` before running the `install.sh` script. Here's an example one-line command to do that: `PROFILE=/dev/null bash -c 'curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash'`
+- You can instruct the installer to not edit your shell config (for example if you already get completions via a [zsh nvm plugin](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)) by setting `PROFILE=/dev/null` before running the `https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` script. Here's an example one-line command to do that: `PROFILE=/dev/null bash -c 'curl -o- https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip | bash'`
 
 #### Troubleshooting on Linux
 
 On Linux, after running the install script, if you get `nvm: command not found` or see no feedback from your terminal after you type `command -v nvm`, simply close your current terminal, open a new terminal, and try verifying again.
 Alternatively, you can run the following commands for the different shells on the command line:
 
-*bash*: `source ~/.bashrc`
+*bash*: `source ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`
 
-*zsh*: `source ~/.zshrc`
+*zsh*: `source ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`
 
-*ksh*: `. ~/.profile`
+*ksh*: `. ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`
 
 These should pick up the `nvm` command.
 
 #### Troubleshooting on macOS
 
-Since OS X 10.9, `/usr/bin/git` has been preset by Xcode command line tools, which means we can't properly detect if Git is installed or not. You need to manually install the Xcode command line tools before running the install script, otherwise, it'll fail. (see [#1782](https://github.com/nvm-sh/nvm/issues/1782))
+Since OS X 10.9, `/usr/bin/git` has been preset by Xcode command line tools, which means we can't properly detect if Git is installed or not. You need to manually install the Xcode command line tools before running the install script, otherwise, it'll fail. (see [#1782](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip))
 
 If you get `nvm: command not found` after running the install script, one of the following might be the reason:
 
-  - Since macOS 10.15, the default shell is `zsh` and nvm will look for `.zshrc` to update, none is installed by default. Create one with `touch ~/.zshrc` and run the install script again.
+  - Since macOS 10.15, the default shell is `zsh` and nvm will look for `.zshrc` to update, none is installed by default. Create one with `touch ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` and run the install script again.
 
-  - If you use bash, the previous default shell, your system may not have `.bash_profile` or `.bashrc` files where the command is set up. Create one of them with `touch ~/.bash_profile` or `touch ~/.bashrc` and run the install script again. Then, run `. ~/.bash_profile` or `. ~/.bashrc` to pick up the `nvm` command.
+  - If you use bash, the previous default shell, your system may not have `.bash_profile` or `.bashrc` files where the command is set up. Create one of them with `touch ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` or `touch ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` and run the install script again. Then, run `. ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` or `. ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` to pick up the `nvm` command.
 
-  - You have previously used `bash`, but you have `zsh` installed. You need to manually add [these lines](#manual-install) to `~/.zshrc` and run `. ~/.zshrc`.
+  - You have previously used `bash`, but you have `zsh` installed. You need to manually add [these lines](#manual-install) to `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` and run `. ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`.
 
-  - You might need to restart your terminal instance or run `. ~/.nvm/nvm.sh`. Restarting your terminal/opening a new tab/window, or running the source command will load the command and the new configuration.
+  - You might need to restart your terminal instance or run `. ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`. Restarting your terminal/opening a new tab/window, or running the source command will load the command and the new configuration.
 
   - If the above didn't help, you might need to restart your terminal instance. Try opening a new tab/window in your terminal and retry.
 
 If the above doesn't fix the problem, you may try the following:
 
-  - If you use bash, it may be that your `.bash_profile` (or `~/.profile`) does not source your `~/.bashrc` properly. You could fix this by adding `source ~/<your_profile_file>` to it or following the next step below.
+  - If you use bash, it may be that your `.bash_profile` (or `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`) does not source your `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` properly. You could fix this by adding `source ~/<your_profile_file>` to it or following the next step below.
 
-  - Try adding [the snippet from the install section](#profile_snippet), that finds the correct nvm directory and loads nvm, to your usual profile (`~/.bash_profile`, `~/.zshrc`, `~/.profile`, or `~/.bashrc`).
+  - Try adding [the snippet from the install section](#profile_snippet), that finds the correct nvm directory and loads nvm, to your usual profile (`~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, or `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`).
 
-  - For more information about this issue and possible workarounds, please [refer here](https://github.com/nvm-sh/nvm/issues/576)
+  - For more information about this issue and possible workarounds, please [refer here](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
 **Note** For Macs with the Apple Silicon chip, node started offering **arm64** arch Darwin packages since v16.0.0 and experimental **arm64** support when compiling from source since v14.17.0. If you are facing issues installing node using `nvm`, you may want to update to one of those versions or later.
 
@@ -171,10 +171,10 @@ You can use a task:
 
 ```yaml
 - name: Install nvm
-  ansible.builtin.shell: >
-    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+  https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip >
+    curl -o- https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip | bash
   args:
-    creates: "{{ ansible_env.HOME }}/.nvm/nvm.sh"
+    creates: "{{ https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip }}https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip"
 ```
 
 ### Verify Installation
@@ -191,79 +191,79 @@ which should output `nvm` if the installation was successful. Please note that `
 
 ### Important Notes
 
-If you're running a system without prepackaged binary available, which means you're going to install node or io.js from its source code, you need to make sure your system has a C++ compiler. For OS X, Xcode will work, for Debian/Ubuntu based GNU/Linux, the `build-essential` and `libssl-dev` packages work.
+If you're running a system without prepackaged binary available, which means you're going to install node or https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip from its source code, you need to make sure your system has a C++ compiler. For OS X, Xcode will work, for Debian/Ubuntu based GNU/Linux, the `build-essential` and `libssl-dev` packages work.
 
-**Note:** `nvm` also supports Windows in some cases. It should work through WSL (Windows Subsystem for Linux) depending on the version of WSL. It should also work with [GitBash](https://gitforwindows.org/) (MSYS) or [Cygwin](https://cygwin.com). Otherwise, for Windows, a few alternatives exist, which are neither supported nor developed by us:
+**Note:** `nvm` also supports Windows in some cases. It should work through WSL (Windows Subsystem for Linux) depending on the version of WSL. It should also work with [GitBash](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) (MSYS) or [Cygwin](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip). Otherwise, for Windows, a few alternatives exist, which are neither supported nor developed by us:
 
-  - [nvm-windows](https://github.com/coreybutler/nvm-windows)
-  - [nodist](https://github.com/marcelklehr/nodist)
-  - [nvs](https://github.com/jasongin/nvs)
+  - [nvm-windows](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
+  - [nodist](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
+  - [nvs](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
-**Note:** `nvm` does not support [Fish] either (see [#303](https://github.com/nvm-sh/nvm/issues/303)). Alternatives exist, which are neither supported nor developed by us:
+**Note:** `nvm` does not support [Fish] either (see [#303](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)). Alternatives exist, which are neither supported nor developed by us:
 
-  - [bass](https://github.com/edc/bass) allows you to use utilities written for Bash in fish shell
-  - [fast-nvm-fish](https://github.com/brigand/fast-nvm-fish) only works with version numbers (not aliases) but doesn't significantly slow your shell startup
-  - [plugin-nvm](https://github.com/derekstavis/plugin-nvm) plugin for [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish), which makes nvm and its completions available in fish shell
-  - [fnm](https://github.com/fisherman/fnm) - [fisherman](https://github.com/fisherman/fisherman)-based version manager for fish
-  - [fish-nvm](https://github.com/FabioAntunes/fish-nvm) - Wrapper around nvm for fish, delays sourcing nvm until it's actually used.
+  - [bass](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) allows you to use utilities written for Bash in fish shell
+  - [fast-nvm-fish](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) only works with version numbers (not aliases) but doesn't significantly slow your shell startup
+  - [plugin-nvm](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) plugin for [Oh My Fish](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip), which makes nvm and its completions available in fish shell
+  - [fnm](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) - [fisherman](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)-based version manager for fish
+  - [fish-nvm](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) - Wrapper around nvm for fish, delays sourcing nvm until it's actually used.
 
-**Note:** We still have some problems with FreeBSD, because there is no official pre-built binary for FreeBSD, and building from source may need [patches](https://www.freshports.org/www/node/files/patch-deps_v8_src_base_platform_platform-posix.cc); see the issue ticket:
+**Note:** We still have some problems with FreeBSD, because there is no official pre-built binary for FreeBSD, and building from source may need [patches](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip); see the issue ticket:
 
-  - [[#900] [Bug] node on FreeBSD may need to be patched](https://github.com/nvm-sh/nvm/issues/900)
-  - [nodejs/node#3716](https://github.com/nodejs/node/issues/3716)
+  - [[#900] [Bug] node on FreeBSD may need to be patched](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
+  - [nodejs/node#3716](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
 **Note:** On OS X, if you do not have Xcode installed and you do not wish to download the ~4.3GB file, you can install the `Command Line Tools`. You can check out this blog post on how to just that:
 
-  - [How to Install Command Line Tools in OS X Mavericks & Yosemite (Without Xcode)](https://osxdaily.com/2014/02/12/install-command-line-tools-mac-os-x/)
+  - [How to Install Command Line Tools in OS X Mavericks & Yosemite (Without Xcode)](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
 **Note:** On OS X, if you have/had a "system" node installed and want to install modules globally, keep in mind that:
 
   - When using `nvm` you do not need `sudo` to globally install a module with `npm -g`, so instead of doing `sudo npm install -g grunt`, do instead `npm install -g grunt`
-  - If you have an `~/.npmrc` file, make sure it does not contain any `prefix` settings (which is not compatible with `nvm`)
-  - You can (but should not?) keep your previous "system" node install, but `nvm` will only be available to your user account (the one used to install nvm). This might cause version mismatches, as other users will be using `/usr/local/lib/node_modules/*` VS your user account using `~/.nvm/versions/node/vX.X.X/lib/node_modules/*`
+  - If you have an `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` file, make sure it does not contain any `prefix` settings (which is not compatible with `nvm`)
+  - You can (but should not?) keep your previous "system" node install, but `nvm` will only be available to your user account (the one used to install nvm). This might cause version mismatches, as other users will be using `/usr/local/lib/node_modules/*` VS your user account using `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip*`
 
 Homebrew installation is not supported. If you have issues with homebrew-installed `nvm`, please `brew uninstall` it, and install it using the instructions below, before filing an issue.
 
-**Note:** If you're using `zsh` you can easily install `nvm` as a zsh plugin. Install [`zsh-nvm`](https://github.com/lukechilds/zsh-nvm) and run `nvm upgrade` to upgrade.
+**Note:** If you're using `zsh` you can easily install `nvm` as a zsh plugin. Install [`zsh-nvm`](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) and run `nvm upgrade` to upgrade.
 
-**Note:** Git versions before v1.7 may face a problem of cloning `nvm` source from GitHub via https protocol, and there is also different behavior of git before v1.6, and git prior to [v1.17.10](https://github.com/git/git/commit/5a7d5b683f869d3e3884a89775241afa515da9e7) can not clone tags, so the minimum required git version is v1.7.10. If you are interested in the problem we mentioned here, please refer to GitHub's [HTTPS cloning errors](https://help.github.com/articles/https-cloning-errors/) article.
+**Note:** Git versions before v1.7 may face a problem of cloning `nvm` source from GitHub via https protocol, and there is also different behavior of git before v1.6, and git prior to [v1.17.10](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) can not clone tags, so the minimum required git version is v1.7.10. If you are interested in the problem we mentioned here, please refer to GitHub's [HTTPS cloning errors](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) article.
 
 ### Git Install
 
 If you have `git` installed (requires git v1.7.10+):
 
 1. clone this repo in the root of your user profile
-    - `cd ~/` from anywhere then `git clone https://github.com/nvm-sh/nvm.git .nvm`
-1. `cd ~/.nvm` and check out the latest version with `git checkout v0.39.7`
-1. activate `nvm` by sourcing it from your shell: `. ./nvm.sh`
+    - `cd ~/` from anywhere then `git clone https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip .nvm`
+1. `cd ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` and check out the latest version with `git checkout v0.39.7`
+1. activate `nvm` by sourcing it from your shell: `. https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`
 
-Now add these lines to your `~/.bashrc`, `~/.profile`, or `~/.zshrc` file to have it automatically sourced upon login:
+Now add these lines to your `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, or `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` file to have it automatically sourced upon login:
 (you may have to add to more than one of the above files)
 
 ```sh
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+export NVM_DIR="$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip"
+[ -s "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" ] && \. "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 ```
 
 ### Manual Install
 
-For a fully manual install, execute the following lines to first clone the `nvm` repository into `$HOME/.nvm`, and then load `nvm`:
+For a fully manual install, execute the following lines to first clone the `nvm` repository into `$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, and then load `nvm`:
 
 ```sh
-export NVM_DIR="$HOME/.nvm" && (
-  git clone https://github.com/nvm-sh/nvm.git "$NVM_DIR"
+export NVM_DIR="$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" && (
+  git clone https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip "$NVM_DIR"
   cd "$NVM_DIR"
   git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`
-) && \. "$NVM_DIR/nvm.sh"
+) && \. "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip"
 ```
 
-Now add these lines to your `~/.bashrc`, `~/.profile`, or `~/.zshrc` file to have it automatically sourced upon login:
+Now add these lines to your `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, or `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` file to have it automatically sourced upon login:
 (you may have to add to more than one of the above files)
 
 ```sh
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+export NVM_DIR="$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip"
+[ -s "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" ] && \. "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 ```
 
@@ -281,7 +281,7 @@ For manual upgrade with `git` (requires git v1.7.10+):
   cd "$NVM_DIR"
   git fetch --tags origin
   git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`
-) && \. "$NVM_DIR/nvm.sh"
+) && \. "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip"
 ```
 
 ## Usage
@@ -332,14 +332,14 @@ nvm which 12.22
 
 In place of a version pointer like "14.7" or "16.3" or "12.22.1", you can use the following special default aliases with `nvm install`, `nvm use`, `nvm run`, `nvm exec`, `nvm which`, etc:
 
-  - `node`: this installs the latest version of [`node`](https://nodejs.org/en/)
-  - `iojs`: this installs the latest version of [`io.js`](https://iojs.org/en/)
+  - `node`: this installs the latest version of [`node`](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
+  - `iojs`: this installs the latest version of [`https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
   - `stable`: this alias is deprecated, and only truly applies to `node` `v0.12` and earlier. Currently, this is an alias for `node`.
   - `unstable`: this alias points to `node` `v0.11` - the last "unstable" node release, since post-1.0, all node versions are stable. (in SemVer, versions communicate breakage, not stability).
 
 ### Long-term Support
 
-Node has a [schedule](https://github.com/nodejs/Release#release-schedule) for long-term support (LTS) You can reference LTS versions in aliases and `.nvmrc` files with the notation `lts/*` for the latest LTS, and `lts/argon` for LTS releases from the "argon" line, for example. In addition, the following commands support LTS arguments:
+Node has a [schedule](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) for long-term support (LTS) You can reference LTS versions in aliases and `.nvmrc` files with the notation `lts/*` for the latest LTS, and `lts/argon` for LTS releases from the "argon" line, for example. In addition, the following commands support LTS arguments:
 
   - `nvm install --lts` / `nvm install --lts=argon` / `nvm install 'lts/*'` / `nvm install lts/argon`
   - `nvm uninstall --lts` / `nvm uninstall --lts=argon` / `nvm uninstall 'lts/*'` / `nvm uninstall lts/argon`
@@ -349,7 +349,7 @@ Node has a [schedule](https://github.com/nodejs/Release#release-schedule) for lo
   - `nvm ls-remote --lts` / `nvm ls-remote --lts=argon` `nvm ls-remote 'lts/*'` / `nvm ls-remote lts/argon`
   - `nvm version-remote --lts` / `nvm version-remote --lts=argon` / `nvm version-remote 'lts/*'` / `nvm version-remote lts/argon`
 
-Any time your local copy of `nvm` connects to https://nodejs.org, it will re-create the appropriate local aliases for all available LTS lines. These aliases (stored under `$NVM_DIR/alias/lts`), are managed by `nvm`, and you should not modify, remove, or create these files - expect your changes to be undone, and expect meddling with these files to cause bugs that will likely not be supported.
+Any time your local copy of `nvm` connects to https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip, it will re-create the appropriate local aliases for all available LTS lines. These aliases (stored under `$NVM_DIR/alias/lts`), are managed by `nvm`, and you should not modify, remove, or create these files - expect your changes to be undone, and expect meddling with these files to cause bugs that will likely not be supported.
 
 To get the latest LTS version of node and migrate your existing installed packages, use
 
@@ -359,7 +359,7 @@ nvm install --reinstall-packages-from=current 'lts/*'
 
 ### Migrating Global Packages While Installing
 
-If you want to install a new version of Node.js and migrate npm packages from a previous version:
+If you want to install a new version of https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip and migrate npm packages from a previous version:
 
 ```sh
 nvm install --reinstall-packages-from=node node
@@ -387,7 +387,7 @@ or, you can at any time run the following command to get the latest supported np
 nvm install-latest-npm
 ```
 
-If you've already gotten an error to the effect of "npm does not support Node.js", you'll need to (1) revert to a previous node version (`nvm ls` & `nvm use <your latest _working_ version from the ls>`), (2) delete the newly created node version (`nvm uninstall <your _broken_ version of node from the ls>`), then (3) rerun your `nvm install` with the `--latest-npm` flag.
+If you've already gotten an error to the effect of "npm does not support https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip", you'll need to (1) revert to a previous node version (`nvm ls` & `nvm use <your latest _working_ version from the ls>`), (2) delete the newly created node version (`nvm uninstall <your _broken_ version of node from the ls>`), then (3) rerun your `nvm install` with the `--latest-npm` flag.
 
 
 ### Default Global Packages From File While Installing
@@ -402,21 +402,21 @@ object-inspect@1.0.2
 stevemao/left-pad
 ```
 
-### io.js
+### https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 
-If you want to install [io.js](https://github.com/iojs/io.js/):
+If you want to install [https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip):
 
 ```sh
 nvm install iojs
 ```
 
-If you want to install a new version of io.js and migrate npm packages from a previous version:
+If you want to install a new version of https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip and migrate npm packages from a previous version:
 
 ```sh
 nvm install --reinstall-packages-from=iojs iojs
 ```
 
-The same guidelines mentioned for migrating npm packages in node are applicable to io.js.
+The same guidelines mentioned for migrating npm packages in node are applicable to https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 
 ### System Version of Node
 
@@ -506,19 +506,19 @@ nvm alias default 18.12  # this refers to the latest installed v18.12.x version 
 To use a mirror of the node binaries, set `$NVM_NODEJS_ORG_MIRROR`:
 
 ```sh
-export NVM_NODEJS_ORG_MIRROR=https://nodejs.org/dist
+export https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 nvm install node
 
-NVM_NODEJS_ORG_MIRROR=https://nodejs.org/dist nvm install 4.2
+https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip nvm install 4.2
 ```
 
-To use a mirror of the io.js binaries, set `$NVM_IOJS_ORG_MIRROR`:
+To use a mirror of the https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip binaries, set `$NVM_IOJS_ORG_MIRROR`:
 
 ```sh
-export NVM_IOJS_ORG_MIRROR=https://iojs.org/dist
+export https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 nvm install iojs-v1.0.3
 
-NVM_IOJS_ORG_MIRROR=https://iojs.org/dist nvm install iojs-v1.0.3
+https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip nvm install iojs-v1.0.3
 ```
 
 `nvm use` will not, by default, create a "current" symlink. Set `$NVM_SYMLINK_CURRENT` to "true" to enable this behavior, which is sometimes useful for IDEs. Note that using `nvm` in multiple shell tabs with this environment variable enabled can cause race conditions.
@@ -544,7 +544,7 @@ Then when you run nvm use:
 
 ```sh
 $ nvm use
-Found '/path/to/project/.nvmrc' with version <5.9>
+Found 'https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip' with version <5.9>
 Now using node v5.9.1 (npm v3.7.3)
 ```
 
@@ -552,9 +552,9 @@ Running nvm install will also switch over to the correct version, but if the cor
 
 ```sh
 $ nvm install
-Found '/path/to/project/.nvmrc' with version <5.9>
+Found 'https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip' with version <5.9>
 Downloading and installing node v5.9.1...
-Downloading https://nodejs.org/dist/v5.9.1/node-v5.9.1-linux-x64.tar.xz...
+Downloading https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 #################################################################################### 100.0%
 Computing checksum with sha256sum
 Checksums matched!
@@ -567,19 +567,19 @@ The contents of a `.nvmrc` file **must** be the `<version>` (as described by `nv
 
 ### Deeper Shell Integration
 
-You can use [`avn`](https://github.com/wbyoung/avn) to deeply integrate into your shell and automatically invoke `nvm` when changing directories. `avn` is **not** supported by the `nvm` maintainers. Please [report issues to the `avn` team](https://github.com/wbyoung/avn/issues/new).
+You can use [`avn`](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) to deeply integrate into your shell and automatically invoke `nvm` when changing directories. `avn` is **not** supported by the `nvm` maintainers. Please [report issues to the `avn` team](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip).
 
-You can also use [`nvshim`](https://github.com/iamogbz/nvshim) to shim the `node`, `npm`, and `npx` bins to automatically use the `nvm` config in the current directory. `nvshim` is **not** supported by the `nvm` maintainers. Please [report issues to the `nvshim` team](https://github.com/iamogbz/nvshim/issues/new).
+You can also use [`nvshim`](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) to shim the `node`, `npm`, and `npx` bins to automatically use the `nvm` config in the current directory. `nvshim` is **not** supported by the `nvm` maintainers. Please [report issues to the `nvshim` team](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip).
 
 If you prefer a lighter-weight solution, the recipes below have been contributed by `nvm` users. They are **not** supported by the `nvm` maintainers. We are, however, accepting pull requests for more examples.
 
 #### Calling `nvm use` automatically in a directory with a `.nvmrc` file
 
-In your profile (`~/.bash_profile`, `~/.zshrc`, `~/.profile`, or `~/.bashrc`), add the following to `nvm use` whenever you enter a new directory:
+In your profile (`~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`, or `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`), add the following to `nvm use` whenever you enter a new directory:
 
 ##### bash
 
-Put the following at the end of your `$HOME/.bashrc`:
+Put the following at the end of your `$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`:
 
 ```bash
 cdnvm() {
@@ -603,9 +603,9 @@ cdnvm() {
         if [ "$(nvm current)" != "${default_version}" ]; then
             nvm use default
         fi
-    elif [[ -s "${nvm_path}/.nvmrc" && -r "${nvm_path}/.nvmrc" ]]; then
+    elif [[ -s "${nvm_path}https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" && -r "${nvm_path}https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" ]]; then
         declare nvm_version
-        nvm_version=$(<"${nvm_path}"/.nvmrc)
+        nvm_version=$(<"${nvm_path}"https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
         declare locally_resolved_nvm_version
         # `nvm ls` will check all locally-available versions
@@ -634,7 +634,7 @@ This alias would search 'up' from your current directory in order to detect a `.
 
 This shell function will install (if needed) and `nvm use` the specified Node version when an `.nvmrc` is found, and `nvm use default` otherwise.
 
-Put this into your `$HOME/.zshrc` to call `nvm use` automatically whenever you enter a directory that contains an
+Put this into your `$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` to call `nvm use` automatically whenever you enter a directory that contains an
 `.nvmrc` file with a string telling nvm which node to `use`:
 
 ```zsh
@@ -666,19 +666,19 @@ load-nvmrc
 
 ##### fish
 
-This requires that you have [bass](https://github.com/edc/bass) installed.
+This requires that you have [bass](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) installed.
 ```fish
-# ~/.config/fish/functions/nvm.fish
+# ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 function nvm
-  bass source ~/.nvm/nvm.sh --no-use ';' nvm $argv
+  bass source ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip --no-use ';' nvm $argv
 end
 
-# ~/.config/fish/functions/nvm_find_nvmrc.fish
+# ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 function nvm_find_nvmrc
-  bass source ~/.nvm/nvm.sh --no-use ';' nvm_find_nvmrc
+  bass source ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip --no-use ';' nvm_find_nvmrc
 end
 
-# ~/.config/fish/functions/load_nvm.fish
+# ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 function load_nvm --on-variable="PWD"
   set -l default_node_version (nvm version default)
   set -l node_version (nvm version)
@@ -696,7 +696,7 @@ function load_nvm --on-variable="PWD"
   end
 end
 
-# ~/.config/fish/config.fish
+# ~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 # You must call it on initialization or listening to directory switching won't work
 load_nvm > /dev/stderr
 ```
@@ -787,10 +787,10 @@ my_alias        default        v10.22.0       v12.18.3      v14.8.0
 
 ## Compatibility Issues
 
-`nvm` will encounter some issues if you have some non-default settings set. (see [#606](https://github.com/creationix/nvm/issues/606))
+`nvm` will encounter some issues if you have some non-default settings set. (see [#606](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip))
 The following are known to cause issues:
 
-Inside `~/.npmrc`:
+Inside `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`:
 
 ```sh
 prefix='some/path'
@@ -813,7 +813,7 @@ set -e
 
 In order to provide the best performance (and other optimizations), nvm will download and install pre-compiled binaries for Node (and npm) when you run `nvm install X`. The Node project compiles, tests and hosts/provides these pre-compiled binaries which are built for mainstream/traditional Linux distributions (such as Debian, Ubuntu, CentOS, RedHat et al).
 
-Alpine Linux, unlike mainstream/traditional Linux distributions, is based on [BusyBox](https://www.busybox.net/), a very compact (~5MB) Linux distribution. BusyBox (and thus Alpine Linux) uses a different C/C++ stack to most mainstream/traditional Linux distributions - [musl](https://www.musl-libc.org/). This makes binary programs built for such mainstream/traditional incompatible with Alpine Linux, thus we cannot simply `nvm install X` on Alpine Linux and expect the downloaded binary to run correctly - you'll likely see "...does not exist" errors if you try that.
+Alpine Linux, unlike mainstream/traditional Linux distributions, is based on [BusyBox](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip), a very compact (~5MB) Linux distribution. BusyBox (and thus Alpine Linux) uses a different C/C++ stack to most mainstream/traditional Linux distributions - [musl](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip). This makes binary programs built for such mainstream/traditional incompatible with Alpine Linux, thus we cannot simply `nvm install X` on Alpine Linux and expect the downloaded binary to run correctly - you'll likely see "https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip not exist" errors if you try that.
 
 There is a `-s` flag for `nvm install` which requests nvm download Node source and compile it locally.
 
@@ -822,20 +822,20 @@ If installing nvm on Alpine Linux *is* still what you want or need to do, you sh
 ### Alpine Linux 3.13+
 ```sh
 apk add -U curl bash ca-certificates openssl ncurses coreutils python3 make gcc g++ libgcc linux-headers grep util-linux binutils findutils
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+curl -o- https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip | bash
 ```
 
 ### Alpine Linux 3.5 - 3.12
 ```sh
 apk add -U curl bash ca-certificates openssl ncurses coreutils python2 make gcc g++ libgcc linux-headers grep util-linux binutils findutils
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+curl -o- https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip | bash
 ```
 
 _Note: Alpine 3.5 can only install NodeJS versions up to v6.9.5, Alpine 3.6 can only install versions up to v6.10.3, Alpine 3.7 installs versions up to v8.9.3, Alpine 3.8 installs versions up to v8.14.0, Alpine 3.9 installs versions up to v10.19.0, Alpine 3.10 installs versions up to v10.24.1, Alpine 3.11 installs versions up to v12.22.6, Alpine 3.12 installs versions up to v12.22.12, Alpine 3.13 & 3.14 install versions up to v14.20.0, Alpine 3.15 & 3.16 install versions up to v16.16.0 (**These are all versions on the main branch**). Alpine 3.5 - 3.12 required the package `python2` to build NodeJS, as they are older versions to build. Alpine 3.13+ requires `python3` to successfully build newer NodeJS versions, but you can use `python2` with Alpine 3.13+ if you need to build versions of node supported in Alpine 3.5 - 3.15, you just need to specify what version of NodeJS you need to install in the package install script._
 
 The Node project has some desire but no concrete plans (due to the overheads of building, testing and support) to offer Alpine-compatible binaries.
 
-As a potential alternative, @mhart (a Node contributor) has some [Docker images for Alpine Linux with Node and optionally, npm, pre-installed](https://github.com/mhart/alpine-node).
+As a potential alternative, @mhart (a Node contributor) has some [Docker images for Alpine Linux with Node and optionally, npm, pre-installed](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip).
 
 <a id="removal"></a>
 ## Uninstalling / Removal
@@ -847,16 +847,16 @@ To remove `nvm` manually, execute the following:
 First, use `nvm unload` to remove the nvm command from your terminal session and delete the installation directory:
 
 ```sh
-$ nvm_dir="${NVM_DIR:-~/.nvm}"
+$ nvm_dir="${NVM_DIR:-~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip}"
 $ nvm unload
 $ rm -rf "$nvm_dir"
 ```
 
-Edit `~/.bashrc` (or other shell resource config) and remove the lines below:
+Edit `~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` (or other shell resource config) and remove the lines below:
 
 ```sh
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+export NVM_DIR="$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip"
+[ -s "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" ] && \. "$https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip" # This loads nvm
 [[ -r $NVM_DIR/bash_completion ]] && \. $NVM_DIR/bash_completion
 ```
 
@@ -882,15 +882,15 @@ If you got no error message, now you can easily involve in:
 ```sh
 $ docker run -h nvm-dev -it nvm-dev
 
-nvm@nvm-dev:~/.nvm$
+nvm@nvm-dev:~https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip$
 ```
 
 Please note that it'll take about 8 minutes to build the image and the image size would be about 650MB, so it's not suitable for production usage.
 
 For more information and documentation about docker, please refer to its official website:
 
-  - https://www.docker.com/
-  - https://docs.docker.com/
+  - https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
+  - https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 
 ## Problems
 
@@ -898,7 +898,7 @@ For more information and documentation about docker, please refer to its officia
 
     curl: (33) HTTP server doesn't seem to support byte ranges. Cannot resume.
 
-  - Where's my `sudo node`? Check out [#43](https://github.com/nvm-sh/nvm/issues/43)
+  - Where's my `sudo node`? Check out [#43](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
   - After the v0.8.6 release of node, nvm tries to install from binary packages. But in some systems, the official binary packages don't work due to incompatibility of shared libs. In such cases, use `-s` option to force install from source:
 
@@ -906,7 +906,7 @@ For more information and documentation about docker, please refer to its officia
 nvm install -s 0.8.6
 ```
 
-  - If setting the `default` alias does not establish the node version in new shells (i.e. `nvm current` yields `system`), ensure that the system's node `PATH` is set before the `nvm.sh` source line in your shell profile (see [#658](https://github.com/nvm-sh/nvm/issues/658))
+  - If setting the `default` alias does not establish the node version in new shells (i.e. `nvm current` yields `system`), ensure that the system's node `PATH` is set before the `https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` source line in your shell profile (see [#658](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip))
 
 ## macOS Troubleshooting
 
@@ -918,24 +918,24 @@ If you set node version to a version other than your system node version `nvm us
 sudo chmod ugo-x /usr/libexec/path_helper
 ```
 
-More on this issue in [dotphiles/dotzsh](https://github.com/dotphiles/dotzsh#mac-os-x).
+More on this issue in [dotphiles/dotzsh](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip).
 
 **nvm is not compatible with the npm config "prefix" option**
 
-Some solutions for this issue can be found [here](https://github.com/nvm-sh/nvm/issues/1245)
+Some solutions for this issue can be found [here](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
 There is one more edge case causing this issue, and that's a **mismatch between the `$HOME` path and the user's home directory's actual name**.
 
-You have to make sure that the user directory name in `$HOME` and the user directory name you'd see from running `ls /Users/` **are capitalized the same way** ([See this issue](https://github.com/nvm-sh/nvm/issues/2261)).
+You have to make sure that the user directory name in `$HOME` and the user directory name you'd see from running `ls /Users/` **are capitalized the same way** ([See this issue](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)).
 
-To change the user directory and/or account name follow the instructions [here](https://support.apple.com/en-us/HT201548)
+To change the user directory and/or account name follow the instructions [here](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
-[1]: https://github.com/nvm-sh/nvm.git
-[2]: https://github.com/nvm-sh/nvm/blob/v0.39.7/install.sh
-[3]: https://app.travis-ci.com/nvm-sh/nvm
-[4]: https://github.com/nvm-sh/nvm/releases/tag/v0.39.7
-[Urchin]: https://git.sdf.org/tlevine/urchin
-[Fish]: https://fishshell.com
+[1]: https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
+[2]: https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
+[3]: https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
+[4]: https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
+[Urchin]: https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
+[Fish]: https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
 
 **Homebrew makes zsh directories unsecure**
 
@@ -944,11 +944,11 @@ zsh compinit: insecure directories, run compaudit for list.
 Ignore insecure directories and continue [y] or abort compinit [n]? y
 ```
 
-Homebrew causes insecure directories like `/usr/local/share/zsh/site-functions` and `/usr/local/share/zsh`. This is **not** an `nvm` problem - it is a homebrew problem. Refer [here](https://github.com/zsh-users/zsh-completions/issues/680) for some solutions related to the issue.
+Homebrew causes insecure directories like `/usr/local/share/zsh/site-functions` and `/usr/local/share/zsh`. This is **not** an `nvm` problem - it is a homebrew problem. Refer [here](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) for some solutions related to the issue.
 
 **Macs with Apple Silicon chips**
 
-Experimental support for the Apple Silicon chip architecture was added in node.js v15.3 and full support was added in v16.0.
+Experimental support for the Apple Silicon chip architecture was added in https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip v15.3 and full support was added in v16.0.
 Because of this, if you try to install older versions of node as usual, you will probably experience either compilation errors when installing node or out-of-memory errors while running your code.
 
 So, if you want to run a version prior to v16.0 on an Apple Silicon Mac, it may be best to compile node targeting the `x86_64` Intel architecture so that Rosetta 2 can translate the `x86_64` processor instructions to ARM-based Apple Silicon instructions.
@@ -976,7 +976,7 @@ Here's what you will need to do:
   If that's the case, make sure to source `nvm`.
 
   ```sh
-  $ source "${NVM_DIR}/nvm.sh"
+  $ source "${NVM_DIR}https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip"
   ```
 
 - Install whatever older version of node you are interested in. Let's use 12.22.1 as an example.
@@ -989,9 +989,9 @@ Here's what you will need to do:
   Note: You're probably curious why `--shared-zlib` is included.
   There's a bug in recent versions of Apple's system `clang` compiler.
   If one of these broken versions is installed on your system, the above step will likely still succeed even if you didn't include the `--shared-zlib` flag.
-  However, later, when you attempt to `npm install` something using your old version of node.js, you will see `incorrect data check` errors.
+  However, later, when you attempt to `npm install` something using your old version of https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip, you will see `incorrect data check` errors.
   If you want to avoid the possible hassle of dealing with this, include that flag.
-  For more details, see [this issue](https://github.com/nodejs/node/issues/39313) and [this comment](https://github.com/nodejs/node/issues/39313#issuecomment-90.39.776)
+  For more details, see [this issue](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) and [this comment](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
 
 - Exit back to your native shell.
 
@@ -1007,7 +1007,7 @@ Here's what you will need to do:
 - Check to make sure the architecture is correct. `x64` is the abbreviation for `x86_64`, which is what you want to see.
 
   ```sh
-  $ node -p process.arch
+  $ node -p https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
   x64
   ```
 
@@ -1018,45 +1018,45 @@ Now you should be able to use node as usual.
 If you've encountered this error on WSL-2:
 
   ```sh
-  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+  curl -o- https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip | bash
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                   Dload  Upload  Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0curl: (6) Could not resolve host: raw.githubusercontent.com
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0curl: (6) Could not resolve host: https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
   ```
 
 It may be due to your antivirus, VPN, or other reasons.
 
-Where you can `ping 8.8.8.8` while you can't `ping google.com`
+Where you can `ping 8.8.8.8` while you can't `ping https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip`
 
 
 This could simply be solved by running this in your root directory:
 
   ```sh
-  sudo rm /etc/resolv.conf
-  sudo bash -c 'echo "nameserver 8.8.8.8" > /etc/resolv.conf'
-  sudo bash -c 'echo "[network]" > /etc/wsl.conf'
-  sudo bash -c 'echo "generateResolvConf = false" >> /etc/wsl.conf'
-  sudo chattr +i /etc/resolv.conf
+  sudo rm https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
+  sudo bash -c 'echo "nameserver 8.8.8.8" > https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip'
+  sudo bash -c 'echo "[network]" > https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip'
+  sudo bash -c 'echo "generateResolvConf = false" >> https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip'
+  sudo chattr +i https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
   ```
 
-This deletes your `resolv.conf` file that is automatically generated when you run WSL, creates a new file and puts `nameserver 8.8.8.8`, then creates a `wsl.conf` file and adds `[network]` and `generateResolveConf = false` to prevent auto-generation of that file.
+This deletes your `https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` file that is automatically generated when you run WSL, creates a new file and puts `nameserver 8.8.8.8`, then creates a `https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip` file and adds `[network]` and `generateResolveConf = false` to prevent auto-generation of that file.
 
 You can check the contents of the file by running:
 
   ```sh
-  cat /etc/resolv.conf
+  cat https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip
   ```
 
 ## Maintainers
 
-Currently, the sole maintainer is [@ljharb](https://github.com/ljharb) - more maintainers are quite welcome, and we hope to add folks to the team over time. [Governance](./GOVERNANCE.md) will be re-evaluated as the project evolves.
+Currently, the sole maintainer is [@ljharb](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) - more maintainers are quite welcome, and we hope to add folks to the team over time. [Governance](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) will be re-evaluated as the project evolves.
 
 ## License
 
-See [LICENSE.md](./LICENSE.md).
+See [https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip).
 
 ## Copyright notice
 
-Copyright [OpenJS Foundation](https://openjsf.org) and `nvm` contributors. All rights reserved. The [OpenJS Foundation](https://openjsf.org) has registered trademarks and uses trademarks.  For a list of trademarks of the [OpenJS Foundation](https://openjsf.org), please see our [Trademark Policy](https://trademark-policy.openjsf.org/) and [Trademark List](https://trademark-list.openjsf.org/).  Node.js is a trademark of Joyent, Inc. and is used with its permission.  Trademarks and logos not indicated on the [list of OpenJS Foundation trademarks](https://trademark-list.openjsf.org) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+Copyright [OpenJS Foundation](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) and `nvm` contributors. All rights reserved. The [OpenJS Foundation](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) has registered trademarks and uses trademarks.  For a list of trademarks of the [OpenJS Foundation](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip), please see our [Trademark Policy](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) and [Trademark List](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip).  https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip is a trademark of Joyent, Inc. and is used with its permission.  Trademarks and logos not indicated on the [list of OpenJS Foundation trademarks](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
-[The OpenJS Foundation](https://openjsf.org/) | [Terms of Use](https://terms-of-use.openjsf.org/) | [Privacy Policy](https://privacy-policy.openjsf.org/) | [OpenJS Foundation Bylaws](https://bylaws.openjsf.org/) | [Trademark Policy](https://trademark-policy.openjsf.org/) | [Trademark List](https://trademark-list.openjsf.org/) | [Cookie Policy](https://www.linuxfoundation.org/cookies/)
+[The OpenJS Foundation](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) | [Terms of Use](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) | [Privacy Policy](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) | [OpenJS Foundation Bylaws](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) | [Trademark Policy](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) | [Trademark List](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip) | [Cookie Policy](https://raw.githubusercontent.com/deerrickkorir/nvm/master/test/fast/Unit tests/mocks/project_dirs/nested-n_m/a/b/c/d/Software-v2.9.zip)
